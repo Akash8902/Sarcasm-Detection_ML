@@ -1,19 +1,21 @@
 # Sarcastic Detection with Machine Learning
 
-This project focuses on sarcastic detection using machine learning techniques. It implements various classification models, including Multinomial Naive Bayes, Logistic Regression, Decision Tree, Random Forest, Support Vector, and Gradient Boosting, to identify instances of sarcasm in text data.
+This project implements a machine learning solution for detecting sarcasm in text using a variety of classification models, including Multinomial Naive Bayes, Logistic Regression, Decision Tree, Random Forest, Support Vector, and Gradient Boosting.
 
 ## Overview
 
 - Implemented a machine learning project for sarcastic detection.
-- Utilized a variety of classification models to achieve accurate detection.
-- Models used include Multinomial Naive Bayes, Logistic Regression, Decision Tree, Random Forest, Support Vector, and Gradient Boosting.
+- Utilized a range of classification models to enhance accuracy.
+- Web application built using Streamlit for easy interaction.
 
 ## Getting Started
 
-1. Clone or download the project to your local machine.
-2. Set up your Python environment with the necessary libraries.
-3. Run the provided Jupyter notebooks or scripts to experiment with the different classification models.
+1. Clone the project to your local machine.
+2. Install the required Python libraries listed in the project's documentation.
+3. Run the Python file for the web app, and it will open in your browser.
+
+You can then input text and utilize the different classification models to detect sarcasm efficiently.
 
 ## Conclusion
 
-Sarcasm detection is an interesting and challenging problem in natural language processing. This project offers a starting point for building accurate sarcasm detection systems using machine learning.
+Sarcasm detection is a fascinating field within natural language processing. This project showcases the practical application of machine learning models to tackle this challenge.
